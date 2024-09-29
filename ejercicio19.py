@@ -12,7 +12,7 @@ class InstrumentoMusical():
 class Piano(InstrumentoMusical):
     
     def __init__(self):
-        super().__init__("♩♫♪♬♪")
+        super().__init__("♩♫♪♬ ♩♪")
         
 class Guitarra(InstrumentoMusical):
     

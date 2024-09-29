@@ -1,7 +1,8 @@
 #Calcula el área de un triángulo con la fórmula: Área = (base * altura) / 2. 
 
-base=5
-altura=8
+base = int(input("Por favor ingrese la base del triángulo: "))
+
+altura = int(input("Por favor ingrese la altura del triángulo: "))
 
 area=(base*altura)/2
 
